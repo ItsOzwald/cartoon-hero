@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+}
+
+header{
+  background-color: orange;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
+
+header h1{
+  color: blue;
+  font-family: fantasy;
+  font-size: 70px;
+
+
+}
+
+header img{border-radius: 100px;
+  width: 300px;
+  border:  10px solid blue;
+}
+
+main{
+  max-resolution: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+main img{
+  max-resolution: 100px;
+}
+
+h2{font-size: 35px;
+  color: orange;
+}
